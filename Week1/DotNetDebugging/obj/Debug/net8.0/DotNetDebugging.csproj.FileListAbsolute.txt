@@ -1,0 +1,14 @@
+/home/aaron/Documents/Development/CSE325/Week1/DotNetDebugging/bin/Debug/net8.0/DotNetDebugging
+/home/aaron/Documents/Development/CSE325/Week1/DotNetDebugging/bin/Debug/net8.0/DotNetDebugging.deps.json
+/home/aaron/Documents/Development/CSE325/Week1/DotNetDebugging/bin/Debug/net8.0/DotNetDebugging.runtimeconfig.json
+/home/aaron/Documents/Development/CSE325/Week1/DotNetDebugging/bin/Debug/net8.0/DotNetDebugging.dll
+/home/aaron/Documents/Development/CSE325/Week1/DotNetDebugging/bin/Debug/net8.0/DotNetDebugging.pdb
+/home/aaron/Documents/Development/CSE325/Week1/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+/home/aaron/Documents/Development/CSE325/Week1/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.AssemblyInfoInputs.cache
+/home/aaron/Documents/Development/CSE325/Week1/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.AssemblyInfo.cs
+/home/aaron/Documents/Development/CSE325/Week1/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.csproj.CoreCompileInputs.cache
+/home/aaron/Documents/Development/CSE325/Week1/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.dll
+/home/aaron/Documents/Development/CSE325/Week1/DotNetDebugging/obj/Debug/net8.0/refint/DotNetDebugging.dll
+/home/aaron/Documents/Development/CSE325/Week1/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.pdb
+/home/aaron/Documents/Development/CSE325/Week1/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.genruntimeconfig.cache
+/home/aaron/Documents/Development/CSE325/Week1/DotNetDebugging/obj/Debug/net8.0/ref/DotNetDebugging.dll
